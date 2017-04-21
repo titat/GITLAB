@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> change from B
 void main()
 {
   char Name[30][40] = {"Sam Matthews", "Mary McBeth", "Ying Phakpon","Chai Chanchai", "Yong Boonsith", "Kitti Karndee"}; 
